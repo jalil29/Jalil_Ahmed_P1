@@ -22,6 +22,8 @@ To-do list:
 
 ## Getting Started
    
-> Dependencies are Managed via Maven's management.
-> Set a System Variable _ExpensesDatabase_ with the associated database URL in the following form jdbc:subprotocol:subname
-> > For Examplle, if running on LocalHost it will be expected jdbc:http://localhost:5000/
+ Dependencies are Managed via Maven's management.
+ 
+ Set a System Variable _ExpensesDatabase_ with the associated database URL in the following form `jdbc:subprotocol:subname`
+ 
+> For Examplle, if running on LocalHost it will be expected jdbc:http://localhost:5000/
